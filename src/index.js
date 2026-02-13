@@ -1,2 +1,2 @@
-import "./styles.css";
-console.log("Webpack template loaded!");
+import './styles.css';
+console.log('Webpack template loaded!');
